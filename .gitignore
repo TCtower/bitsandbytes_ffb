@@ -135,3 +135,4 @@ dependencies
 cuda_build
 examples/profile_log/bitsandbytes/optane00_445264.1702366600798.pt.trace.json
 examples/profile_log/
+.vscode/

@@ -12,7 +12,7 @@ Resources:
 
 ## Requirements & Installation
 
-**Recommended requirements**: 
+**Recommended requirements:** 
 - python==3.9
 - pytorch==1.13.1
 - torchvision==0.14.1
@@ -43,7 +43,7 @@ conda install -c conda-forge accelerate==0.20.3
 conda install scipy==1.10.1
 ```
 
-**Hardware requirements**: NVIDIA Turing (RTX 20xx; T4) or Ampere GPU (RTX 30xx; A4-A100); (a GPU from 2018 or older).
+**Hardware requirements:** NVIDIA Turing (RTX 20xx; T4) or Ampere GPU (RTX 30xx; A4-A100); (a GPU from 2018 or older).
 
 (Make sure you make enough GPU memory!!!)
 
